@@ -4,4 +4,6 @@
 
 [KBlog后端](https://gitee.com/Kadia/kblog_springboot)
 
-之后更新
+## [博客的自我介绍](https://www.kadia.link/#/content?blogId=244)
+
+## [博客的食用方式](https://www.kadia.link/#/content?blogId=245)
